@@ -62,5 +62,6 @@
 			<attribute name="maven.scope" value="compile"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/daffolap-910/.p2/pool/plugins/org.testng_7.8.0.r202306071539.jar" sourcepath="C:/Users/daffolap-910/.p2/pool/plugins/org.testng.source_7.8.0.r202306071539.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
